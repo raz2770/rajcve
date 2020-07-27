@@ -1,0 +1,60 @@
+.top-container{
+  background-color:#E4F9F5;
+  position: relative;
+
+
+  padding-top: 100px;
+
+  font-family: 'Sacramento', cursive;
+
+
+}
+.middle-container{
+  background-color: #E4F9F5;
+
+
+}
+.bottom-container{
+  background-color: #ffe78f;
+
+
+
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin-top: 0;
+}
+.comp{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.pro{
+  width: 140px;
+  height: 220px;
+  border-radius: 50%;
+
+}
+.skill{
+  border-radius: 15px;
+}
+.pra{
+  font-size: 30px;
+
+}
+.cp{
+  border-radius: 15px;
+  width: 400px;
+  height: 400px;
+}
